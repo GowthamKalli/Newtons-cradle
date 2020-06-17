@@ -18,6 +18,6 @@ class Bob {
      
         fill("black")
         ellipseMode(RADIUS)
-        ellipse(pos.x,pos.y,this.radius,this.radius);
+        ellipse(pos.x,pos.y,this.radius,this.radius)
     }
 }
